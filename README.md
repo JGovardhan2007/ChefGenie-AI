@@ -22,36 +22,6 @@
   - Imagen 4.0 (Image Generation)
 - **Icons**: Lucide React
 
-## 📦 Installation & Setup
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/chefgenie-ai.git
-   cd chefgenie-ai
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Configure Environment Variables**
-   Create a `.env` file in the root directory and add your Google Gemini API key:
-   ```env
-   # Get your key from https://aistudio.google.com/
-   API_KEY=your_actual_api_key_here
-   ```
-   *Note: Depending on your build tool (Vite, CRA, etc.), you might need to prefix this variable (e.g., `VITE_API_KEY`) and update `services/geminiService.ts` accordingly.*
-
-4. **Run the application**
-   ```bash
-   npm start
-   # or
-   npm run dev
-   ```
-
 ## 📂 Project Structure
 
 ```
