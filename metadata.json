@@ -1,0 +1,5 @@
+{
+  "name": "ChefGenie AI",
+  "description": "An intelligent recipe generator that transforms your available ingredients into delicious meals with health analysis and dynamic images.",
+  "requestFramePermissions": []
+}
