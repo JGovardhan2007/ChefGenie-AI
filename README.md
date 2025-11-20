@@ -1,8 +1,6 @@
 # ChefGenie AI 👨‍🍳✨
 
-**ChefGenie AI** is an intelligent recipe generator that transforms your available ingredients into delicious, complete meals. Powered by Google's **Gemini 2.5 Flash** for culinary logic and **Imagen 4** for dynamic food photography, it helps reduce food waste and simplifies meal planning.
-
-![ChefGenie Screenshot](https://via.placeholder.com/800x400?text=ChefGenie+AI+Preview)
+**ChefGenie AI** is an intelligent recipe generator that transforms your available ingredients into delicious, complete meals.
 
 ## 🚀 Features
 
@@ -17,9 +15,6 @@
 
 - **Frontend**: React 19, TypeScript
 - **Styling**: Tailwind CSS
-- **AI & ML**: 
-  - Google Gemini 2.5 Flash (Text & Logic)
-  - Imagen 4.0 (Image Generation)
 - **Icons**: Lucide React
 
 ## 📂 Project Structure
